@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>About Us</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<table border="1" width="90%" align="center">
+<tr>
+			<td colspan="4">
+				Home - Plants and Flowers - About Us
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<h1 align="center">About Us</h1>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin cursus ex orci, ultricies imperdiet felis rutrum volutpat. Aenean ut finibus massa, vel malesuada augue. Cras vestibulum dui turpis, vel fringilla lectus mattis ac. Praesent maximus nisi turpis, vel sagittis arcu dictum in. Sed et nisi ante. Donec eget est turpis. Sed mattis arcu magna. Praesent cursus massa nulla, at porta tortor convallis in. Praesent vulputate eu purus quis varius. Pellentesque quis feugiat lectus, ut vulputate ex. Cras ut risus molestie, tempor enim in, aliquet erat. Suspendisse faucibus mi dolor, eget vehicula nibh convallis ac. Mauris id est magna. Phasellus mollis pellentesque elit, lacinia lacinia tellus ultricies ultricies. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</td>
+			<td colspan="2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin cursus ex orci, ultricies imperdiet felis rutrum volutpat. Aenean ut finibus massa, vel malesuada augue. Cras vestibulum dui turpis, vel fringilla lectus mattis ac. Praesent maximus nisi turpis, vel sagittis arcu dictum in. Sed et nisi ante. Donec eget est turpis. Sed mattis arcu magna. Praesent cursus massa nulla, at porta tortor convallis in. Praesent vulputate eu purus quis varius. Pellentesque quis feugiat lectus, ut vulputate ex. Cras ut risus molestie, tempor enim in, aliquet erat. Suspendisse faucibus mi dolor, eget vehicula nibh convallis ac. Mauris id est magna. Phasellus mollis pellentesque elit, lacinia lacinia tellus ultricies ultricies. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</td>
+		</tr>
+</table>
+</body>
+</html>
